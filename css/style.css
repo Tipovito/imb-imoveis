@@ -14,10 +14,11 @@ body {
     background-color:#FFF7E4;
 }
 h2 {
-    margin-bottom: -2.5rem;
+    margin-top: 40px;
+    margin-bottom: -1.5rem;
 }
+
 .drop {
-    position: relative;
     top: 24px;
     left: 400px;
 }
@@ -28,4 +29,15 @@ h2 {
 
 .btn-primary{
     margin-left: 1800px;
+}
+
+.dropdown {
+    left: 300px;
+    margin-top:auto;
+    margin-bottom:-1.5rem ;
+}
+
+.navbar-collapse {
+    margin-bottom: 20px;
+    
 }
